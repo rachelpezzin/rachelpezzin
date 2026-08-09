@@ -40,7 +40,7 @@ Meu interesse na área de software é na área **Full-Stack**, onde busco sempre
 
 Tenho experiência com **Impressão 3D** - atualmente participo de um projeto de pesquisa focado no desenvolvimento de placas cirúrgicas - e utilizo o **SolidWorks** para projetar peças e máquinas. Embora a maioria dos meus projetos pessoais sejam estudos e experimentações, meu foco é sempre criar algo que possa se tornar uma aplicação real, integrando os conhecimentos que adquiro na faculdade.
 
-Quando não estou programando ou estudando, você provavelmente vai me encontrar jogando xadrez, resolvendo um sudoku ou lendo um bom livro. ♟️📖
+Quando não estou programando ou estudando, você provavelmente vai me encontrar jogando xadrez, resolvendo um sudoku ou lendo um bom livro.
 
 <br>
 
