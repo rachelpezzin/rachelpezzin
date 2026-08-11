@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Controle e Automação dedicada a resolver proble
             <li>Raciocínio matemático avançado.</li>
           </ul>
         </li>
-        <li><strong>No tempo livre:</strong> Jogo xadrez, resolvo sudoku, dedico-me à leitura e gosto de cuidar de plantas.</li>
+        <li><strong>No tempo livre:</strong> Jogo xadrez, resolvo sudoku e leio os mais diversos livros.</li>
       </ul>
     </td>
   </tr>
