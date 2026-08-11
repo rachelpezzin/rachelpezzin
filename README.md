@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%" />
-</div>
 
 <h1 align="center">Rachel Pezzin</h1>
 
